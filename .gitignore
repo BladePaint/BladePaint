@@ -1,0 +1,9 @@
+/dist
+tmp
+*.pyc
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.zip
+*.egg-info
+/build
