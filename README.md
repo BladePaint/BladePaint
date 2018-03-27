@@ -1,9 +1,9 @@
 BladePaint
 ================================================================================
->  Templates, documentation and scripts for contributing designs to BladePaint. 
-
 [![Github Forks][forks-image]][forks-url]
+[![GitHub repo size in bytes][reposize-image]][reposize-url]
 [![License][license-image]][license-url]
+[![BladePaint Oar][oar-image]][oar-url]
 
 Getting Started
 --------------------------------------------------------------------------------
@@ -26,6 +26,14 @@ Getting Started
 
 [forks-image]:https://img.shields.io/github/forks/BladePaint/BladePaint.svg?style=for-the-badge&label=Fork
 [forks-url]:https://bladepaint.github.com/BladePaint/BladePaint/
+
+[reposize-image]:https://img.shields.io/github/repo-size/BladePaint/BladePaint.svg?style=for-the-badge
+[reposize-url]:#
+
+[oar-image]:sculling-oar.svg
+[oar-url]:#
+
+
 
 [wiki]: https://github.com/rownbc/constitution/wiki
 [contributing]: https://github.com/BladePaint/BladePaint/.github/CONTRIBUTING.md
