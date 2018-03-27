@@ -68,7 +68,7 @@
     <clipPath id="blade_path"><use href="#blade" /></clipPath>
   </defs>
 
-<g transform="translate(0,0.215)">
+<g transform="translate(0,0.215) translate(8, 0) scale(-1, 1)">
   <g transform="translate(1.3,0)">
   <use href="#shaft"  x="0.0" fill="url(#shaft_color)"  />
   <use href="#sleeve" x="3.0" fill="url(#sleeve_color)" />
