@@ -10,8 +10,8 @@ Getting Started
 
 
 #### Directory Structure for [`BladePaint/`](https://github.com/BladePaint/BladePaint/)
-* [`document.svg`](https://github.com/BladePaint/BladePaint/blob/master/document.svg)
-  > This is the main file to edit when contributing to the project. For more information see [wiki/editing-document.svg](https://github.com/BladePaint/BladePaint/wiki/editing-document.svg)
+* > [`document.svg`](https://github.com/BladePaint/BladePaint/blob/master/document.svg) This is the main file to edit when contributing to the project — <cite>[wiki/editing-document.svg](https://github.com/BladePaint/BladePaint/wiki/editing-document.svg)</cite>
+
 * [`.github/`](https://github.com/BladePaint/BladePaint/.github/)
   * [`CODE_OF_CONDUCT.md`](https://github.com/BladePaint/BladePaint/blob/master/.github/CODE_OF_CONDUCT.md)
   * [`CONTRIBUTING.md`](https://github.com/BladePaint/BladePaint/blob/master/.github/CONTRIBUTING.md)
