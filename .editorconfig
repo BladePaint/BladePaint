@@ -32,3 +32,7 @@ insert_final_newline = true
 [*.txt]
 indent_style = tab
 indent_size = 4
+
+[.{gitattributes,gitignore,gitmodules}]
+indent_style = tab
+indent_size = 4
