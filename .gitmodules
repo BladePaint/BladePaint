@@ -1,7 +1,6 @@
-
 [submodule "narragansett_boat_club"]
 	path = src/narragansett_boat_club
-	url = https://github.com/rownbc/bladepaint
+	url = https://github.com/rownbc/bladepaint.git
 	update = rebase
 	branch = master
 	fetchRecurseSubmodules = true
