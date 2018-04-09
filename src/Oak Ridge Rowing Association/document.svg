@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+    preserveAspectRatio="xMidYMid meet"
+    viewBox="0 0 1 1"
+    width="1024"
+    overflow="visible">
+<defs>
+    <linearGradient id="primary-0"><stop stop-color="#e8bf28"/></linearGradient>
+    <linearGradient id="primary-1"><stop stop-color="#D50032"/></linearGradient>
+</defs>
+
+<symbol
+    id="radioactive"
+    viewbox="-0.5 -0.5 1 1"
+    stroke="black"
+    stroke-width="0.35"
+    stroke-dashoffset="0.3401666667"
+    stroke-dasharray="0.3401666667">
+    <circle r="0.100" fill="url(#primary-1)" stroke="none" />
+    <circle r="0.325" fill="none" stroke="url(#primary-1)" />
+</symbol>
+
+<rect x="-5" y="-5" width="10" height="10" fill="url(#primary-0)"/>
+<use href="#radioactive" transform="translate(0.1,0.1) scale(0.8)" />
+<circle r="0.450" transform="translate(0.5,0.5)"
+    fill="none"
+    stroke="url(#primary-1)"
+    stroke-width="0.05" />
+</svg>
