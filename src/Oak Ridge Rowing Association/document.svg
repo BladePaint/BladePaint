@@ -11,7 +11,7 @@
 <symbol
     id="radioactive"
     viewbox="-0.5 -0.5 1 1"
-    stroke="black"
+    overflow="visible"
     stroke-width="0.35"
     stroke-dashoffset="0.3401666667"
     stroke-dasharray="0.3401666667">
@@ -20,7 +20,7 @@
 </symbol>
 
 <rect x="-5" y="-5" width="10" height="10" fill="url(#primary-0)"/>
-<use href="#radioactive" transform="translate(0.1,0.1) scale(0.8)" />
+<use href="#radioactive" transform="translate(0.5,0.5) scale(0.8)" />
 <circle r="0.450" transform="translate(0.5,0.5)"
     fill="none"
     stroke="url(#primary-1)"
