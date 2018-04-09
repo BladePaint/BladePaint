@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMinYMid meet" viewBox="0 0 1 1" overflow="visible">
+
+  <defs>
+    <linearGradient id="primary-0"><stop stop-color="#BF0A30"/></linearGradient>
+    <linearGradient id="primary-1"><stop stop-color="#FFFFFF"/></linearGradient>
+    <linearGradient id="primary-2"><stop stop-color="#002868"/></linearGradient>
+  </defs>
+
+  <path d="m-0.5,-0.5 h5v1h-5" fill="url(#primary-0)"/>
+  <path d="m-0.5, 0.5 h5v1h-5" fill="url(#primary-2)"/>
+  <path d="m-0.5,-0.5 1,1-1,1" fill="url(#primary-1)"/>
+
+</svg>
