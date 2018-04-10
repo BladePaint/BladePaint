@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" overflow="visible" preserveAspectRatio="xMinYMid meet" viewBox="0 0 1 1">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" overflow="visible" preserveAspectRatio="none" viewBox="0 0 1 1">
 
   <defs>
     <linearGradient id="primary-0"><stop stop-color="#FFFFFF"/></linearGradient>
     <linearGradient id="primary-1"><stop stop-color="#00356B"/></linearGradient>
   </defs>
 
-  <path d="m-0.5,-0.5 h5v1h-5" fill="url(#primary-0)"/>
-  <path d="m-0.5, 0.5 h5v1h-5" fill="url(#primary-1)"/>
+  <path d="m-0.5,-0.5 h2v1h-2" fill="url(#primary-0)"/>
+  <path d="m-0.5, 0.5 h2v1h-2" fill="url(#primary-1)"/>
 
 </svg>
