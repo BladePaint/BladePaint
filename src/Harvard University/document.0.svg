@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" overflow="visible" preserveAspectRatio="xMinYMid meet" viewBox="0 0 1 1">
+
+  <defs>
+    <linearGradient id="primary-0"><stop stop-color="#FFFFFF"/></linearGradient>
+    <linearGradient id="primary-1"><stop stop-color="#A51C30"/></linearGradient>
+  </defs>
+
+  <path d="m-0.5-0.5h5v2h-5z" fill="url(#primary-0)"/>
+  <path d="m1,-0.1
+
+    a2,2 0 0 0 -1,0.6
+    a2,2 0 0 0 1,0.6
+    a16,16 0 0 0 3.5,0.3 v-1.8
+a16,16 0 0 0 -3.5,0.3" fill="url(#primary-1)"/>
+</svg>
