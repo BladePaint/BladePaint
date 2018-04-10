@@ -1,7 +1,5 @@
 BladePaint
 ================================================================================
-[![Github Forks][forks-image]][forks-url]
-[![GitHub repo size in bytes][reposize-image]][reposize-url]
 [![License][license-image]][license-url]
 [![BladePaint Oar][oar-image]][oar-url]
 
@@ -9,32 +7,26 @@ Getting Started
 --------------------------------------------------------------------------------
 
 
-#### Directory Structure for [`BladePaint/`](https://github.com/BladePaint/BladePaint/)
-* [`document.svg`](https://github.com/BladePaint/BladePaint/blob/master/document.svg) This is the main file to edit when contributing to the project — <cite>[wiki/editing-document.svg](https://github.com/BladePaint/BladePaint/wiki/editing-document.svg)</cite>
+#### Directory Structure for [`BladePaint/`](/)
+* `document.svg` This is the main file to edit or add when contributing to the project — <cite>[wiki/editing-document.svg](https://github.com/BladePaint/BladePaint/wiki/editing-document.svg)</cite>
 
-* [`.github/`](https://github.com/BladePaint/BladePaint/.github/)
-  * [`CODE_OF_CONDUCT.md`](https://github.com/BladePaint/BladePaint/blob/master/.github/CODE_OF_CONDUCT.md)
-  * [`CONTRIBUTING.md`](https://github.com/BladePaint/BladePaint/blob/master/.github/CONTRIBUTING.md)
-  * [`LICENSE`](https://github.com/BladePaint/BladePaint/blob/master/.github/LICENSE)
-  * [`README.md`](https://github.com/BladePaint/BladePaint/blob/master/.github/README.md)
+* [`.github/`](/.github/)
+  * [`CODE_OF_CONDUCT.md`](/.github/CODE_OF_CONDUCT.md)
+  * [`CONTRIBUTING.md`](/.github/CONTRIBUTING.md)
+  * [`LICENSE`](/.github/LICENSE)
+  * [`README.md`](/.github/README.md)
   
 
 
 <!-- Markdown link & img dfn's -->
 [license-image]:https://img.shields.io/github/license/BladePaint/BladePaint.svg?style=for-the-badge
-[license-url]:https://github.com/BladePaint/BladePaint/blob/master/.github/LICENSE
+[license-url]:LICENSE
 
 [forks-image]:https://img.shields.io/github/forks/BladePaint/BladePaint.svg?style=for-the-badge&label=Fork
-[forks-url]:https://bladepaint.github.com/BladePaint/BladePaint/
+[forks-url]:#
 
 [reposize-image]:https://img.shields.io/github/repo-size/BladePaint/BladePaint.svg?style=for-the-badge
 [reposize-url]:#
 
 [oar-image]:sculling-oar.svg
 [oar-url]:#
-
-
-
-[wiki]: https://github.com/rownbc/constitution/wiki
-[contributing]: https://github.com/BladePaint/BladePaint/.github/CONTRIBUTING.md
-[wiki]: https://github.com/rownbc/constitution/wiki
