@@ -7,7 +7,7 @@
   </defs>
 
   <symbol id="half-T" overflow="visible" viewbox="0 0 1 1">
-    <path d="m0,0h0.5v0.35h-0.3v-0.1h-0.05v0.55h0.1v0.2h-0.3"/>
+    <path d="m0,0h0.5v0.35h-0.3v-0.1h-0.05v0.55h0.1v0.2h-0.25"/>
   </symbol>
   <symbol id="T" overflow="visible" fill="url(#primary-1)">
     <g transform="translate(0.5,0)">
