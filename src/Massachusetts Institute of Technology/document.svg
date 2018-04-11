@@ -16,6 +16,7 @@
     </g>
   </symbol>
   <path d="m-5-5h10v10h-10z" fill="url(#primary-0)"/>
-  <use href="#T" transform="scale(0.8) translate(0.1,0.1)"/>
+
+  <use href="#T" transform="scale(0.8) translate(0.125,0.125)"/>
 
 </svg>
