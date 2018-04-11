@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" overflow="visible" preserveAspectRatio="none" viewBox="0 0 1 1">
+
+  <defs>
+    <linearGradient id="primary-0"><stop stop-color="#FFFFFF"/></linearGradient>
+    <linearGradient id="primary-1"><stop stop-color="#002754"/></linearGradient>
+    <linearGradient id="primary-2"><stop stop-color="#F5AA1C"/></linearGradient>
+  </defs>
+
+  <path d="m-0.5-0.5h2v2h-2z" fill="url(#primary-0)"/>
+  <path d="m-0.5,-0.5h0.7v2h-0.7" fill="url(#primary-2)"/>
+  <path d="M-0.25,-0.5 -0.125,-0.5 0,0 0,0.195 z" fill="url(#primary-1)"/>
+  <path d="M0,0
+    0.45,0.5 0.45,0.3 1,1
+    0.55,0.6 0.55,0.8 0,0.3 z" fill="url(#primary-1)" transform=" scale(0.2,0.65)"/>
+
+</svg>
