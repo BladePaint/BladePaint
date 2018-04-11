@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" overflow="visible" preserveAspectRatio="xMinYMid meet" viewBox="0 0 1 1">
+
+  <defs>
+    <linearGradient id="primary-0"><stop stop-color="#FFFFFF"/></linearGradient>
+    <linearGradient id="primary-1"><stop stop-color="#A31F34"/></linearGradient>
+  </defs>
+
+  <symbol id="half-T" overflow="visible" viewbox="0 0 1 1">
+    <path d="m0,0h0.5v0.35h-0.3v-0.1h-0.05v0.55h0.1v0.2h-0.3"/>
+  </symbol>
+  <symbol id="T" overflow="visible" fill="url(#primary-1)">
+    <g transform="translate(0.5,0)">
+      <use href="#half-T"/>
+      <use href="#half-T" transform="scale(-1,1)"/>
+    </g>
+  </symbol>
+  <path d="m-5-5h10v10h-10z" fill="url(#primary-0)"/>
+  <use href="#T" transform="scale(0.8) translate(0.1,0.1)"/>
+
+</svg>
